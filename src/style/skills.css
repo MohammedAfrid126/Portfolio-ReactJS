@@ -1,0 +1,44 @@
+.centerItems{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.techImg img{
+    scale: 1.1;
+}
+
+.techTitle{
+    text-align: center;
+}
+
+.stackTitles{
+    text-align: center;
+    margin: 1rem 0;
+}
+
+.stackContainer{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.techContainer{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.techContainer img{
+    margin: 0.4rem 0.6rem;
+    padding: 0.1rem 0.2rem;
+    scale: 1.1;
+    border-radius: 10px;
+}
+
+@media screen and (max-width: 768px){
+    .imgColumn{
+        display: none;
+    }
+}
