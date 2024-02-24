@@ -39,7 +39,7 @@ export default function NavBar() {
                     <Navbar.Toggle aria-controls="basic-navbar-nav">
                     </Navbar.Toggle>
                     <Navbar.Collapse id="basic-navbar-nav">
-                        <Nav className="me-auto">
+                        <Nav className="me-auto text-Sacramento mt-1">
                             <h1>Mohammed <span className='lastName'>Afrid</span></h1>
                         </Nav>
                         <span className="navbar-text">

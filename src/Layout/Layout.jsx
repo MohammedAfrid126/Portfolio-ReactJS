@@ -1,4 +1,5 @@
 import React from 'react'
+import AnimationBox from '../Components/AnimationBox'
 import Banner from '../Components/Banner'
 import Contact from '../Components/Contact'
 import Footer from '../Components/Footer'
@@ -13,6 +14,7 @@ export default function Layout() {
             <NavBar/>
             <Banner/>
             <Skills/>
+            <AnimationBox/>
             <Projects/>
             <Contact/>
             <Footer/>

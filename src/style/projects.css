@@ -18,7 +18,7 @@
     line-height: 1.5em;
     margin: 14px auto 30px auto;
     text-align: center;
-    width: 56%;
+    width: 60%;
 }
 
 .project  .nav.nav-pills {
@@ -150,5 +150,5 @@
 }
 
 .buttonHref:hover{
-    background: #e3a829 ;
+    background: #e3a829;
 }
