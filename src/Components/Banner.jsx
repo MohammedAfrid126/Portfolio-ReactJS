@@ -56,7 +56,7 @@ export default function Banner() {
                             <h1 className='text-Sacramento'>Mohammed <span className='lastName text-Sacramento'>Afrid</span></h1>
                             <h1><span className='arrayText'>{text}&nbsp;</span></h1>
                             <p>I am a Web Developer with a wide range of technical abilities, that enable me to create complicated web apps from scratch. I am knowledgeable on both frontend and backend technologies, and I can nimbly combine the various elements to produce effective webapps.  I am passionate about staying up-to-date with the latest technologies and best practices in web development.</p>
-                            <a href='https://drive.google.com/file/d/1xRX-Yv186Tx79T7AD3dZlzZmqQV__dhV/view?usp=sharing'><button >Resume <ArrowDownCircle size={25} /></button></a>
+                            <a href='https://drive.google.com/file/d/1dVeF0e9RvaLlsOEYXR6leoEGQTNp_fUI/view?usp=drive_link'><button >Resume <ArrowDownCircle size={25} /></button></a>
                         </Col>
                         <Col xs={12} md={6} xl={5}>
                             <Tilt>

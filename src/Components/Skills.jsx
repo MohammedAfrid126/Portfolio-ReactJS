@@ -26,14 +26,16 @@ export default function Skills() {
                                         <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="" />
                                         <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="" />
                                         <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="" />
-                                        <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="" />
+                                        <img src="https://img.shields.io/badge/PHP-%23323330.svg?style=for-the-badge&logo=PHP" alt="" />
                                         <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="" />
+                                        <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="" />
                                     </div>
                                 </div>
                                 <div className="framework">
-                                    <h5 className='stackTitles'>JS Framework/Library :</h5>
+                                    <h5 className='stackTitles'>Framework/Library :</h5>
                                     <div className="frameworkContainer techContainer">
                                         <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="" />
+                                        <img src="https://img.shields.io/badge/LARAVEL-%2320232a.svg?style=for-the-badge&logo=laravel" alt="" />
                                     </div>
                                 </div>
                                 <div className="cssFramework">
@@ -47,6 +49,7 @@ export default function Skills() {
                                     <h5 className='stackTitles'>Database :</h5>
                                     <div className="databaseContainer techContainer">
                                         <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="" />
+                                        <img src="https://img.shields.io/badge/SQL-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="" />
                                     </div>
                                 </div>
                                 <div className="backend">
@@ -61,6 +64,7 @@ export default function Skills() {
                                     <div className="versionControlContainer techContainer">
                                         <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="" />
                                         <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="" />
+                                        <img src="https://img.shields.io/badge/Bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white" alt="" />
                                     </div>
                                 </div>
                             </div>
